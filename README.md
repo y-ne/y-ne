@@ -1,1 +1,1 @@
-That guy who mastering microsolder, simply because regular soldering is just plain boring
+That guy who master microsoldering, simply because regular soldering is just plain boring
