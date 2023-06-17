@@ -13,3 +13,5 @@ OS: Arch Linux x86_64 (host), Windows 11 (guest)
 Signature: C, Rust, Python, Dart, Java
 Hobby: Reading
 ```
+
+[![Discord Presence](https://lanyard.kyrie25.me/api/390488207294332942)](https://discord.com/users/390488207294332942)
