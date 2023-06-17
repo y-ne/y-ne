@@ -1,3 +1,15 @@
-<img src="https://github.com/akumakumu/akumakumu/blob/main/kokomisan.png">
+<img src="./kokomisan.png">
 
-That guy who master microsoldering, simply because regular soldering is just plain boring
+```
+~
+> neofetch
+
+yy@profile-info
+------------
+Given Name: kuu
+Alternate Names: y_ne, yy, k
+Roles: Hardware & Software Engineer, Graphic Designer
+OS: Arch Linux x86_64 (host), Windows 11 (guest)
+Signature: C, Rust, Python, Dart, Java
+Hobby: Reading
+```
