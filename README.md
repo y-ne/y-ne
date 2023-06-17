@@ -11,8 +11,8 @@ Alternate Name: y_ne, yy, k
 Role: Hardware & Software Engineer, Graphic Designer
 OS: Arch Linux x86_64 (host), Windows 11 (guest)
 Signature: C, Rust, Python, Dart, Java
-Hobby: Reading
 Software: Vim, Photoshop, Illustrator, Blender, KiCad 
+Hobby: Reading
 ```
 
 <h3>Contact :</h3>
