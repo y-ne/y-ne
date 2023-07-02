@@ -5,7 +5,7 @@
 > neofetch
 
 yy@profile-info
-------------
+---------------
 Given Name: kuu
 Alternate Name: y_ne, yy, k
 Role: Hardware & Software Engineer, Graphic Designer
