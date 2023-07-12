@@ -1,4 +1,4 @@
-<img src="./pict/mangabomb.jpg">
+<img src="./pict/mangabomb.png">
 
 ```
 ~
