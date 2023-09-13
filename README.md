@@ -9,8 +9,8 @@ yy@profile-info
 Given Name: kuu
 Alternate Name: y_ne, yy, k
 Role: Hardware & Software Engineer, Graphic Designer
-OS: Arch Linux x86_64 (host), Windows 11 (guest)
-Signature: C, Rust, Python, Dart, Java
+OS: Arch Linux x86_64 (host), Windows 11 (guest), Debian (WSL)
+Signature: C, Rust, Python
 Software: Vim, Photoshop, Illustrator, Blender, KiCad 
 Hobby: Reading
 ```
