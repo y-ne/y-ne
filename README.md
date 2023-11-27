@@ -29,11 +29,11 @@ Here's lie my networking equipment, in case someone curious
 
 [GSM Modem]
 Huawei B310s-927
-Huawei B8372h-608
+Huawei E8372h-608
 
 [OpenWRT Router]
-1x Amlogic s905x SBC (Loadbalance)
-1x Amlogic s905x2 SBC (Main Firewall + Docker Host)
+1x Amlogic s905x 2GB SBC (Loadbalance)
+1x Amlogic s905x2 2GB SBC (Main Firewall + Docker Host)
 2x Xiaomi Mi Router 4A Gigabit Edition (Access Point)
 
 [Misc]
