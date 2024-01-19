@@ -8,7 +8,7 @@ yy@profile-info
 ---------------
 Given Name: kuu
 Alternate Name: y-ne, Yy
-Role: Hardware & Software Engineer, Graphic Designer
+Role: System Engineer, Graphic Designer
 OS: Arch Linux x86_64 (host), Windows 11 (guest), Debian (WSL), Fedora 39 (daily drive)
 Language: C/C++, Rust, Python, Javascript
 Software: Vim, Photoshop, Illustrator, Blender, KiCad 
