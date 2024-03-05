@@ -36,7 +36,7 @@ Huawei B310s-927
 Huawei E8372h-608
 
 [OpenWRT Router]
-3x Amlogic s905x 2GB SBC (Cluster)
+4x Amlogic s905x 2GB SBC (Cluster)
 1x Amlogic s905x2 2GB SBC (Main Firewall + Docker Host)
 2x Xiaomi Mi Router 4A Gigabit Edition (Access Point)
 
