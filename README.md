@@ -17,7 +17,7 @@ yy@profile-info
 ---------------
 Given Name: kuu
 Alternate Name: y-ne, Yy
-Role: Data Scientist, Web Developer, Electrical Engineer, Graphic Designer
+Role: Data Scientist, Electrical Engineer, Network Engineer, Web Developer, Graphic Designer
 OS: Arch Linux x86_64 (host), Windows 11 (guest), Debian (WSL), Fedora 39 (daily drive)
 Software: VSCode, KiCad, Photoshop, Illustrator, Blender
 Hobby: Reading
