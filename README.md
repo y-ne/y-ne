@@ -3,6 +3,13 @@
 --->
 
 ```
+" Just like how everyone adored heroes in their childhood, I adored knowledge "
+
+" I don't usually respond during work hours, but I'd be happy to chat off the clock ~ "
+- Topaz
+```
+
+```
 ~
 > neofetch
 
@@ -10,19 +17,13 @@ yy@profile-info
 ---------------
 Given Name: kuu
 Alternate Name: y-ne, Yy
-Role: System Engineer, Graphic Designer
+Role: Data Scientist, Web Developer, Electrical Engineer, Graphic Designer
 OS: Arch Linux x86_64 (host), Windows 11 (guest), Debian (WSL), Fedora 39 (daily drive)
-Language: C/C++, Rust, Python, Javascript
-Software: Vim, Photoshop, Illustrator, Blender, KiCad 
+Software: VSCode, KiCad, Photoshop, Illustrator, Blender
 Hobby: Reading
 ```
 
-```
-" Just like how everyone adored heroes in their childhood, I adored knowledge "
-
-" I don't usually respond during work hours, but I'd be happy to chat off the clock ~ "
-- Topaz
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akumakumu&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Contact :</h3>
 
