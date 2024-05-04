@@ -3,7 +3,7 @@
 --->
 
 ```
-" Just like how everyone adored heroes in their childhood, I adored knowledge "
+" Just like how everyone adored heroes in their childhood, I adored knowledge. "
 
 " I don't know everything. I just know what I know. "
 - Hanekawa Tsubasa
