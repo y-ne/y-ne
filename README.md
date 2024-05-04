@@ -5,6 +5,9 @@
 ```
 " Just like how everyone adored heroes in their childhood, I adored knowledge "
 
+"I don't know everything. I just know what I know."
+- Hanekawa Tsubasa
+
 " I don't usually respond during work hours, but I'd be happy to chat off the clock ~ "
 - Topaz
 ```
