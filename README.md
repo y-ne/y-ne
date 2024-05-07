@@ -22,7 +22,7 @@ Given Name: kuu
 Alternate Name: y-ne, Yy
 Role: Data Scientist, Electrical Engineer, Network Engineer, Full-Stack Web Developer, Graphic Designer
 OS: Arch Linux x86_64 (host), Windows 11 (guest), Debian (WSL), Fedora 39 (daily drive)
-Software: VSCode, KiCad, Photoshop, Illustrator, Blender
+Software: VSCode + VIM, KiCad, Photoshop, Illustrator, Blender
 Hobby: Reading
 ```
 
