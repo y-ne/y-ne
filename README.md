@@ -19,10 +19,10 @@
 yy@profile-info
 ---------------
 Given Name: kuu
-Alternate Name: Youne, y-ne, yね, Yy
+Alternate Name: Y-ne, Youne, 5mm, 5 Millimeter
 Role: Data Scientist, Electrical Engineer, Network Engineer, Full-Stack Developer, Graphic Designer
 OS: Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL), Fedora 40 (daily drive)
-Software: VSCode + VIM, KiCad, Photoshop, Illustrator, Blender
+Software: Zed ,VSCode, KiCad, Photoshop, Illustrator, Blender
 Hobby: Reading
 ```
 
