@@ -20,9 +20,9 @@ yy@profile-info
 ---------------
 Given Name: kuu
 Alternate Name: Y-ne, Youne, 5mm, 5 Millimeter
-Role: Data Engineer, Electrical Engineer, Network Engineer, Backend Developer, Graphic Designer
-OS: Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL), Fedora 40 (daily drive)
-Software: Zed , VSCode, KiCad, Photoshop, Illustrator, Blender
+Role: Electrical & Embedded System Engineer, Data Engineer
+OS: Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL2), Fedora 40 (daily drive)
+Software: Zed, VSCode, KiCad, Photoshop, Illustrator, Blender
 Hobby: Reading
 ```
 
@@ -31,20 +31,3 @@ Hobby: Reading
 <h3>Contact :</h3>
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/390488207294332942)](https://discord.com/users/390488207294332942)
-
-```
-Here's lie my networking equipment, in case someone curious
-
-[GSM Modem]
-Huawei B310s-927
-Huawei E8372h-608
-
-[OpenWRT Router]
-4x Amlogic s905x 2GB SBC (Cluster)
-1x Amlogic s905x2 2GB SBC (Main Firewall + Docker Host)
-2x Xiaomi Mi Router 4A Gigabit Edition (Access Point)
-
-[Misc]
-Ugreen USB 3.0 Gigabit Ethernet Adapter - Metal
-PX UCH40
-```
