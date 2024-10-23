@@ -8,7 +8,7 @@
 " I don't know everything. I just know what I know. "
 - Hanekawa Tsubasa
 
-"Any application that can be written in JavaScript, will eventually be written in JavaScript"
+" Any application that can be written in JavaScript, will eventually be written in JavaScript "
 - Jeff Atwood
 
 " I don't usually respond during work hours, but I'd be happy to chat off the clock ~ "
