@@ -25,7 +25,7 @@ Given Name: kuu
 Alternate Name: Y-ne, Youne, 5mm, 5 Millimeter
 Position: Electrical & Embedded System Engineer, Automation Engineer, Data Engineer
 Device: Apple MacBook Pro M2, Custom Personal Computer
-OS: MacOS Sequoia, Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL2), Fedora 40 (daily drive)
+OS: MacOS Sequoia (Daily Drive), Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL2)
 Software: Zed, VSCode, KiCad, Photoshop, Illustrator, Blender
 Hobby: Reading
 ```
