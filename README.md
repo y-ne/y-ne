@@ -34,4 +34,4 @@ Hobby: Reading
 
 <h3>Contact :</h3>
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/390488207294332942)](https://discord.com/users/390488207294332942)
+[![Discord Presence](api.lanyard.rest/v1/users/390488207294332942](https://discord.com/users/390488207294332942)
