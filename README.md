@@ -1,6 +1,5 @@
 <!---
 <img src="./pict/mangabomb.png">
---->
 
 ```
 " Just like how everyone adored heroes in their childhood, I adored knowledge. "
@@ -15,7 +14,11 @@
 - Topaz
 ```
 
+--->
+
 ```
+it doesn't exist; you wish for it.
+
 ~
 > whoami
 
