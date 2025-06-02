@@ -25,7 +25,7 @@ it doesn't exist; you wish for it.
 yy@profile-info
 ---------------
 Given Name: kuu
-Alternate Name: Y-ne, Youne, 5mm, 5 Millimeter
+Alternate Name: Y-ne, Millimeter, Flower Garden
 Job Position(s): Senior Electrical & Embedded System Engineer, Lead DevOps Engineer, Data Engineer
 Device: Apple MacBook Pro M2, Custom Personal Computer, Samsung Galaxy Tab S8, MSi Optix G241
 OS: MacOS Sequoia (Daily Drive), Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL2)
