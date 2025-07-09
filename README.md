@@ -27,7 +27,12 @@ yy@profile-info
 Given Name: kuu
 Alternate Name: Y-ne, Millimeter, Flower Garden
 Job Position(s): Senior Electrical & Embedded System Engineer, Lead DevOps Engineer, Data Engineer
-Device: Apple MacBook Pro M2, Custom Personal Computer, Samsung Galaxy Tab S8, MSi Optix G241
+Device:
+- Custom Personal Computer
+- Apple MacBook Pro M2
+- Xiaomi Poco F7 12/512
+- Samsung Galaxy Tab S8
+- MSi Optix G241
 OS: MacOS Sequoia (Daily Drive), Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL2)
 Software: JetBrains, Zed, Xcode, VSCode, KiCad, Photoshop, Illustrator, Blender
 Hobby: Reading
