@@ -29,8 +29,8 @@ Alternate Name: Y-ne, Millimeter, Flower Garden
 Job Position(s): Senior Electrical & Embedded System Engineer, Lead DevOps Engineer, Data Engineer
 Device:
 - Custom Personal Computer
-- Apple MacBook Pro M2 8/256
-- Xiaomi Poco F7 12/512
+- Apple MacBook Pro M2
+- Xiaomi Poco F7
 - Samsung Galaxy Tab S8
 - MSi Optix G241
 OS: MacOS Sequoia (Daily Drive), Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL2)
