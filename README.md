@@ -31,6 +31,7 @@ Device:
 - Custom Personal Computer
 - Apple MacBook Pro M2
 - Xiaomi Poco F7
+- Xiaomi Pocophone F1
 - Samsung Galaxy Tab S8
 - MSi Optix G241
 OS: MacOS Sequoia (Daily Drive), Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL2)
