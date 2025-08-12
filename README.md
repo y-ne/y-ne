@@ -38,7 +38,7 @@ Device:
 - Apple MacBook Pro M2
 - Xiaomi Poco F7
 - Xiaomi Pocophone F1
-- Samsung Galaxy S8
+- 2x Samsung Galaxy S8
 - Samsung Galaxy Tab S8
 - MSi Optix G241
 ```
