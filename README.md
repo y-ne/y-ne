@@ -37,9 +37,10 @@ Device:
 - Custom Personal Computer
 - Apple MacBook Pro M2
 - Xiaomi Poco F7 
-- Xiaomi Pocophone F1 postmarketOS
-- Samsung Galaxy S8 HadesROM
-- Samsung Galaxy S8 LineageOS
+- Xiaomi Pocophone F1 postmarketOS 25
+- Samsung Galaxy S8 HadesROM 3
+- Samsung Galaxy S8 LineageOS 21
+- Samsung Galaxy S8 crDroid 9
 - Samsung Galaxy Tab S8
 - MSi Optix G241
 ```
