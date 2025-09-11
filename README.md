@@ -35,7 +35,7 @@ Hobby: Reading
 ```
 Device:
 - Custom Personal Computer
-- Apple MacBook Pro M2
+- Apple MacBook Pro M2 8/256
 - Xiaomi Poco F7 12/512 Stock
 - Xiaomi Poco F4 8/256 Stock
 - Xiaomi Pocophone F1 6/128 postmarketOS 25
