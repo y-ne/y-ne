@@ -36,12 +36,10 @@ Hobby: Reading
 Device:
 - Custom Personal Computer
 - Apple MacBook Pro M2
-- Xiaomi Poco F7 
-- Xiaomi Pocophone F1 postmarketOS 25
-- Samsung Galaxy S8 HadesROM 3
-- 4x Samsung Galaxy S8 LineageOS 21
-- Samsung Galaxy S8 crDroid 9
-- Samsung Galaxy S8 T-Mobile Ver.
+- Xiaomi Poco F7 12/512 Stock
+- Xiaomi Poco F4 8/256 Stock
+- Xiaomi Pocophone F1 6/128 postmarketOS 25
+- 7x Samsung Galaxy S8 LineageOS 21
 - Samsung Galaxy Tab S8
 - MSi Optix G241
 ```
