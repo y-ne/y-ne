@@ -39,7 +39,7 @@ Device:
 - Xiaomi Poco F7 12/512 Stock
 - Xiaomi Poco F4 8/256 Stock
 - Xiaomi Pocophone F1 6/128 postmarketOS 25
-- 7x Samsung Galaxy S8 LineageOS 21
+- 7x Samsung Galaxy S8 6/64 LineageOS 21
 - Samsung Galaxy Tab S8
 - MSi Optix G241
 ```
