@@ -38,8 +38,8 @@ Device:
 - Apple MacBook Pro M2 8/256
 - Xiaomi Poco F7 12/512 Stock
 - 2x Samsung Galaxy Z Flip4 Stock
-- Xiaomi Poco F4 8/256 Stock
-- Xiaomi Poco F3 8/256 LineageOS
+- Xiaomi Poco F4 8/256 Rooted HyperOS 1.0
+- Xiaomi Poco F3 8/256 Rooted HyperOS 1.0
 - Xiaomi Pocophone F1 6/128 postmarketOS 25
 - 7x Samsung Galaxy S8 4/64 LineageOS 21
 - Samsung Galaxy Tab S8
