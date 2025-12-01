@@ -25,7 +25,7 @@ it doesn't exist; you wish for it.
 yy@profile-info
 ---------------
 Given Name: kuu
-Alternate Name: Yy , Millimeter , Flower Garden
+Alternate Name: Yy , Wakimae, Millimeter , Flower Garden
 Job Position(s): Senior Electrical & Embedded System Engineer, Lead DevOps Engineer, Data Engineer
 OS: MacOS Sequoia (Daily Drive), Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL2)
 Software: JetBrains, Zed, Xcode, VSCode, KiCad, Photoshop, Illustrator, Blender
@@ -37,12 +37,12 @@ Device:
 - Custom Personal Computer
 - Apple MacBook Pro M2 8/256
 - Xiaomi Poco F7 12/512 Stock
-- 2x Samsung Galaxy Z Flip4 Stock
-- Xiaomi Poco F4 8/256 HyperOS 1.0
+- 3x Samsung Galaxy Z Flip4 Stock Magisk
+- Xiaomi Poco F4 8/256 HyperOS 1.0 Magisk
 - Xiaomi Poco F3 8/256 Lineage 22
 - Xiaomi Pocophone F1 6/128 postmarketOS 25
 - 7x Samsung Galaxy S8 4/64 LineageOS 21
-- Samsung Galaxy Tab S8
+- Samsung Galaxy Tab S8 Stock
 - MSi Optix G241
 ```
 
