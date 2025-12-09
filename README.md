@@ -36,7 +36,7 @@ Hobby: Reading
 Device:
 - Custom Personal Computer
 - Apple MacBook Pro M2 8/256
-- Xiaomi Poco F7 12/512 Stock
+- Xiaomi Poco F7 12/512 HyperOS 2.0 Magisk
 - 3x Samsung Galaxy Z Flip4 Stock Magisk
 - Xiaomi Poco F4 8/256 HyperOS 1.0 Magisk
 - Xiaomi Poco F3 8/256 Lineage 22
