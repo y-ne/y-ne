@@ -37,7 +37,7 @@ Device:
 - Custom Personal Computer
 - Apple MacBook Pro M2 8/256
 - Xiaomi Poco F7 12/512 HyperOS 2.0 Magisk
-- 3x Samsung Galaxy Z Flip4 Stock Magisk
+- 3x Samsung Galaxy Z Flip4 OneUI 7 Magisk
 - Xiaomi Poco F4 8/256 HyperOS 1.0 Magisk
 - Xiaomi Poco F3 8/256 Lineage 22
 - Xiaomi Pocophone F1 6/128 postmarketOS 25
