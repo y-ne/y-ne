@@ -47,6 +47,7 @@ Device:
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-ne&layout=compact&langs_count=10&hide=jupyter%20notebook,ejs,html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-ne&hide=jupyter%20notebook,ejs,html,css)
 
 <h3>Contact :</h3>
 
