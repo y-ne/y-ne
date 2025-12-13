@@ -34,7 +34,7 @@ Hobby: Reading
 
 ```
 Device:
-- Custom Personal Computer
+- Handbuilt Computer ( R5 3600 32GB RTX5060 )
 - Apple MacBook Pro M2 8/256
 - Xiaomi Poco F7 12/512 HyperOS 2.0 Magisk
 - 3x Samsung Galaxy Z Flip4 OneUI 7 Magisk
