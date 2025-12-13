@@ -43,7 +43,6 @@ Device:
 - Xiaomi Pocophone F1 6/128 postmarketOS 25
 - 7x Samsung Galaxy S8 4/64 LineageOS 21
 - Samsung Galaxy Tab S8 Stock
-- MSi Optix G241
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-ne&layout=compact&langs_count=10&hide=jupyter%20notebook,ejs,html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
