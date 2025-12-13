@@ -25,10 +25,10 @@ it doesn't exist; you wish for it.
 yy@profile-info
 ---------------
 Given Name: kuu
-Alternate Name: Yy , Wakimae, Millimeter , Flower Garden
+Alternate Name: Yy , Wakimae, Millimeter, Flower Garden
 Job Position(s): Senior Electrical & Embedded System Engineer, Lead DevOps Engineer, Data Engineer
-OS: MacOS Sequoia (Daily Drive), Arch Linux x86_64 (host), Windows 11 (guest), Debian 12 Bookworm (WSL2)
-Software: JetBrains, Zed, Xcode, VSCode, KiCad, Photoshop, Illustrator, Blender
+OS: MacOS Sequoia (Daily Drive), Arch Linux x86_64 (host), Windows 11 (guest)
+Software: Zed, KiCad, Photoshop, Illustrator, Blender
 Hobby: Reading
 ```
 
