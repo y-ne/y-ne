@@ -22,17 +22,23 @@ it doesn't exist; you wish for it.
 ~
 > whoami
 
-yy@wakimae
+yy@information
 ---------------
-# Given Name: kuu
-# Alternate Name: Yy , Wakimae, Millimeter, Flower Garden
-# Hobby: Reading
-# Job Position:
-    - Senior Electrical & Embedded System Engineer
-    - Senior Web Developer
-    - Lead DevOps Engineer
-    - Ex Data Engineer
-# Software:
+- Given Name:
+    -- kuu
+- Alternate Name:
+    -- Yy
+    -- Wakimae
+    -- Millimeter
+    -- Flower Garden
+- Hobby:
+    -- Reading
+- Job Position:
+    -- Senior Electrical & Embedded System Engineer
+    -- Senior Web Developer
+    -- Lead DevOps Engineer
+    -- Ex Data Engineer
+- Software:
     - Zed
     - KiCad
 ```
