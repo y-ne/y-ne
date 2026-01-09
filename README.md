@@ -22,16 +22,22 @@ it doesn't exist; you wish for it.
 ~
 > whoami
 
-yy@profile-info
+yy@wakimae
 ---------------
-Given Name: kuu
-Alternate Name: Yy , Wakimae, Millimeter, Flower Garden
-Job Position(s): Senior Electrical & Embedded System Engineer, Lead DevOps Engineer, Data Engineer
-OS: MacOS Sequoia (Daily Drive), Arch Linux x86_64 (host), Windows 11 (guest)
-Software: Zed, KiCad, Photoshop, Illustrator, Blender
-Hobby: Reading
+# Given Name: kuu
+# Alternate Name: Yy , Wakimae, Millimeter, Flower Garden
+# Hobby: Reading
+# Job Position:
+    - Senior Electrical & Embedded System Engineer
+    - Senior Web Developer
+    - Lead DevOps Engineer
+    - Ex Data Engineer
+# Software:
+    - Zed
+    - KiCad
 ```
 
+<!---
 ```
 Device:
 - Handbuilt Computer ( R5 3600 32GB RTX5060 )
@@ -44,8 +50,13 @@ Device:
 - 7x Samsung Galaxy S8 4/64 LineageOS 21
 - Samsung Galaxy Tab S8 Stock
 ```
+--->
+
+<!---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-ne&layout=compact&langs_count=10&hide=jupyter%20notebook,ejs,html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
 <h3>Contact :</h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/390488207294332942)](https://discord.com/users/390488207294332942)
