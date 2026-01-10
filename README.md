@@ -39,8 +39,8 @@ yy@information
     -- Lead DevOps Engineer
     -- Ex Data Engineer
 - Software:
-    - Zed
-    - KiCad
+    -- Zed
+    -- KiCad
 ```
 
 <!---
