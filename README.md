@@ -30,6 +30,7 @@ yy@information
     -- Yy
     -- Wakimae
     -- Millimeter
+    -- Ni-banme (Number Two)
     -- Flower Garden
 - Hobby:
     -- Reading
