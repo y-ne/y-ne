@@ -30,8 +30,8 @@ yy@information
     -- Yy
     -- Wakimae
     -- Millimeter
+    -- Origami
     -- Ni-banme (Number Two)
-    -- Flower Garden
 - Hobby:
     -- Reading
 - Job Position:
