@@ -35,7 +35,7 @@ yy@information
 - Job Position:
     -- Senior Electrical & Embedded System Engineer
     -- Senior Web Developer
-    -- Lead DevOps Engineer
+    -- Ex Lead DevOps Engineer
     -- Ex Data Engineer
 - Software:
     -- Zed
