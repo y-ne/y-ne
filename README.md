@@ -31,7 +31,7 @@ yy@information
     -- Wakimae
     -- Millimeter
 - Hobby:
-    -- Reading
+    -- Read & Write
 - Job Position:
     -- Senior Electrical & Embedded System Engineer
     -- Senior Web Developer
