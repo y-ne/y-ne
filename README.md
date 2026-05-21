@@ -33,7 +33,7 @@ yy@information
 - Hobby:
     -- Read & Write
 - Job Position:
-    -- Senior Electrical & Embedded System Engineer
+    -- Senior Electrical & Electronic Engineer
     -- Senior Web Developer
     -- Ex Lead DevOps Engineer
     -- Ex Data Engineer
