@@ -35,11 +35,13 @@ yy@information
 - Job Position:
     -- Senior Electrical & Electronic Engineer
     -- Senior Web Developer
+    -- CAD Engineer
     -- Ex Lead DevOps Engineer
     -- Ex Data Engineer
 - Software:
     -- Zed
     -- KiCad
+    -- FreeCAD
 ```
 
 <!---
