@@ -32,7 +32,7 @@ yy@information
     -- Millimeter
 - Hobby:
     -- Read & Write
-- Job Position:
+- Positions & Roles:
     -- Senior Electrical & Electronic Engineer
     -- Senior Web Developer
     -- CAD Engineer
