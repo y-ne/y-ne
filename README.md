@@ -35,7 +35,6 @@ yy@information
 - Positions & Roles:
     -- Senior Electrical & Electronic Engineer
     -- CAD Engineer
-    -- Painter
     -- Ex Senior Web Developer
     -- Ex Lead DevOps Engineer
     -- Ex Data Engineer
