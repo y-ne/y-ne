@@ -12,12 +12,16 @@
 
 " I don't usually respond during work hours, but I'd be happy to chat off the clock ~ "
 - Topaz
+
+" it doesn't exist; you wish for it. "
+- Amamiya Midori
 ```
 
 --->
 
 ```
-it doesn't exist; you wish for it.
+You know how the drugs they prescribe change, depending on the state of your illness or injury?
+This is the same thing.
 
 ~
 > whoami
@@ -35,9 +39,9 @@ yy@information
 - Positions & Roles:
     -- Senior Electrical & Electronic Engineer
     -- CAD Engineer
-    -- Ex Senior Web Developer
-    -- Ex Lead DevOps Engineer
-    -- Ex Data Engineer
+    -- Ex-Senior Web Developer
+    -- Ex-Lead DevOps Engineer
+    -- Ex-Data Engineer
 - Software:
     -- Zed
     -- KiCad
