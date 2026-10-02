@@ -20,7 +20,8 @@
 --->
 
 ```
-You know how the drugs they prescribe change, depending on the state of your illness or injury?
+You know how the drugs they prescribe change,
+depending on the state of your illness or injury?
 This is the same thing.
 
 ~
