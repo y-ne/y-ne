@@ -47,6 +47,7 @@ yy@information
     -- Zed
     -- KiCad
     -- FreeCAD
+    -- SolidWorks
 ```
 
 <!---
