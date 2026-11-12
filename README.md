@@ -39,10 +39,11 @@ yy@information
     -- Read & Write
 - Positions & Roles:
     -- Senior Electrical & Electronic Engineer
-    -- CAD Engineer
-    -- Ex-Senior Web Developer
-    -- Ex-Lead DevOps Engineer
-    -- Ex-Data Engineer
+    -- CAD Engineer / 3D Designer
+    -- Former Senior Web Developer
+    -- Former Lead DevOps Engineer
+    -- Former Data Engineer
+    -- Former Network Engineer
 - Software:
     -- Zed
     -- KiCad
